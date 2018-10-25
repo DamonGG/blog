@@ -10,5 +10,23 @@
 	<atom:link href="https://damongg.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>test</title>
+      <link>https://damongg.github.io/blog/tags/test/</link>
+      <pubDate>Thu, 25 Oct 2018 18:00:27 +0800</pubDate>
+      
+      <guid>https://damongg.github.io/blog/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>welcome</title>
+      <link>https://damongg.github.io/blog/tags/welcome/</link>
+      <pubDate>Thu, 25 Oct 2018 18:00:27 +0800</pubDate>
+      
+      <guid>https://damongg.github.io/blog/tags/welcome/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

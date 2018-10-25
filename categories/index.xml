@@ -10,5 +10,14 @@
 	<atom:link href="https://damongg.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>T</title>
+      <link>https://damongg.github.io/blog/categories/t/</link>
+      <pubDate>Thu, 25 Oct 2018 18:00:27 +0800</pubDate>
+      
+      <guid>https://damongg.github.io/blog/categories/t/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
